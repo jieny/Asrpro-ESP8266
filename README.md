@@ -26,3 +26,5 @@ ESP8266用Esphome处理，也非常简单，yaml及串口源码均已开源。
 # 7、最终效果视频<br>
 顺带介绍了没用官方下载电路时的烧录时机<br>
 https://www.bilibili.com/video/BV1GF4m1N7by
+
+git remote add upstream https://github.com/DIYSmartHome8/Asrpro-ESP8266
